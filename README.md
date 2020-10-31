@@ -1,11 +1,14 @@
 
-## Description of the problem and solution.
+## Description of the problem .
 
 - we need to  add multiple items to the cart with possibility to update,delete,add items and destroy cart if we need .
 - display a bill after adding items in different cases :
- #####1- items cart doesn't have discount or offers .
- #####2- items cart have  offers .
- #####3- convert currencies case .
+
+1- items cart doesn't have discount or offers .
+
+2- items cart have  offers .
+
+ 3- convert currencies case .
 
 ## solution
 
@@ -18,13 +21,12 @@
 3- Sql & Mysql Server
 
 4- Php unit tests (Feature and Unit).
-##### Architecture & Pattern :
+##### Architecture & Patterns :
 1- MVC
 
 2- Restful
 
 3- OOP
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
 ## Installation
 
