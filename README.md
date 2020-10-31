@@ -40,4 +40,10 @@
 1. Run `php artisan serve` command or use Laravel Valet or Laravel Homestead .
 1. Use `localhost:8000` in This Postman Collection
 
+API Route: http://localhost:8000/api/cart
 ##### Postman link `https://documenter.getpostman.com/view/6483323/TVYKbH62` 
+##unit Test
+
+1- tests/Feature/CartControllerTest.php
+
+2  tests/Unit/CartTraitTest.php
